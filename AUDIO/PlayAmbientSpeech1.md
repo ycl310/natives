@@ -9,7 +9,7 @@ void _PLAY_AMBIENT_SPEECH1(Ped ped, char* speechName, char* speechParam);
 ```
 
 ```
-Plays ambient speech. See also _0x444180DB.  
+Plays ambient speech. See also _0x444180DB.  d
 ped: The ped to play the ambient speech.  
 speechName: Name of the speech to play, eg. "GENERIC_HI".  
 speechParam: Can be one of the following:  
